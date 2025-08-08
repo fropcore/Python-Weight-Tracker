@@ -26,7 +26,7 @@ python3 gainer.py --csv sample/sample_weights.csv --height "5'11"" --name "Bob" 
 
 ### What you get
 
-`- **Terminal**: start/goal/current, BMI, pace/week (overall & trend), and a nice progress bar.
+- **Terminal**: start/goal/current, BMI, pace/week (overall & trend), and a nice progress bar.
 - **HTML**: KPIs, progress bar, dual-units (kg/lb), segmented chart (green gain, red loss), and a dashed goal line.
 
 All offline. Share the HTML as-is.
