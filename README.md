@@ -1,6 +1,6 @@
 # Weight Gain Tracker
 
-A tiny, dependency-free Python tool that celebrates **gaining**. It reads a CSV, prints terminal stats + motivation, and can generate a **shareable HTML** report with a dark theme, green-for-gain/red-for-loss segments, and a **goal line**.
+A tiny, dependency-free Python tool. It reads a CSV, prints terminal stats + motivation, and can generate a **shareable HTML** report with a dark theme, green-for-gain/red-for-loss segments, and a **goal line**.
 
 ## CSV Format (required keys at top)
 
